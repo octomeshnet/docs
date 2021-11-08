@@ -5,7 +5,7 @@ We are a community of programmers, network enthusiasts, and random people who wa
 - Easy to set up
 - Secure
 
-You can contribute to the documentation [here](https://github.com/octomesh/docs).
+You can contribute to the documentation [here](https://github.com/octomeshnet/docs).
 
 ## About Octo Mesh and Yggdrasil
 - [FAQ](faq.md)
