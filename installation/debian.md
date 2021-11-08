@@ -2,7 +2,7 @@
 This will work on any distro based on Debian.
 
 ## Quick Install
-You can download a bash script [here](https://github.com/Octonet45/quick-yggdrasil) and run it to install!
+You can download a bash script [here](https://github.com/octomeshnet/quick-yggdrasil) and run it to install!
 
 ## Manual Install
 This is how to install Yggdrasil manualy.
